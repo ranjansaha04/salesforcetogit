@@ -3,6 +3,7 @@
     <types>
         <members>ProfileMergerController</members>
         <members>RestRequestController</members>
+        <members>GitHubController</members>
         <name>ApexClass</name>
     </types>
     <types>
